@@ -1,9 +1,23 @@
-import React from 'react'
+import React, { useState } from 'react'
 
-const ThemeContext = () => {
-  return (
-    <div>ThemeContext</div>
+const ThemeContext = React.createContext()
+
+const ContextAPI = ({children}) => {
+  const [theme, setTheme] = useState(true)
+  const changeTheme = () => {
+    setTheme(!theme)
+    console.log(theme)
+  }
+
+  return(
+    <ThemeContext.Provider value={{changeTheme, theme}}>
+      {children}
+    </ThemeContext.Provider>
   )
 }
 
-export default ThemeContext
+// export const useTheme = () => {
+//   const context = useContext(ThemeContext)
+//   return context
+// }
+export {ContextAPI, ThemeContext}

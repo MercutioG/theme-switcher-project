@@ -1,8 +1,10 @@
-import React from 'react'
+import React, {useContext} from 'react'
+import { ThemeContext } from '../context/ThemeContext'
 
 const Footer = () => {
+  const {theme} = useContext(ThemeContext)
   return (
-    <footer>
+    <footer className={(theme) ? 'dark': 'light'}>
       <div>
         <p>there is lots of good info here</p><br/>
         <p>there is lots of good info here</p><br/>

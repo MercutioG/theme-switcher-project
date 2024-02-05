@@ -8,7 +8,7 @@
 
 .dark{
   color: white;
-  background-color: #111111;
+  background-color: #222222;
 }
 
 nav{
@@ -42,6 +42,4 @@ article{
   height: 100vh;
   padding: 1rem;
   border: #111111 5px groove;
-  border-radius: 40%;
-  margin: 3vw;
 }
