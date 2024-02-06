@@ -39,7 +39,6 @@ nav.dark, footer.dark{
 
 article{
   background-color: #eee;
-  height: 100vh;
   padding: 1rem;
   border: #111111 5px groove;
 }

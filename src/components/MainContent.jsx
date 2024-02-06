@@ -5,7 +5,36 @@ const MainContent = () => {
   const {theme} = useContext(ThemeContext)
   return (
     <article className={(theme) ? 'dark': 'light'}>
-      <p>I can sing a song</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
+      <p>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. The rats made me crazy.</p>
     </article>
   )
 }
